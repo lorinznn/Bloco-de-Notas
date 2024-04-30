@@ -6,5 +6,4 @@ Conseguimos modificar a informação e eliminar tanto de forma seletiva como tod
 
 Se gostaram do projeto, peço que se subscrevam e dêem like.
 
-LinkedIn: http://www.linkedin.com/in/lucinaldo-costa  
-GitHub: https://github.com/lucinaldocosta
+GitHub: https://github.com/lorinznn
